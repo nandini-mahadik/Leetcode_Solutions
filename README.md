@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
