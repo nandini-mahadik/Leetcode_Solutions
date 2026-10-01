@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
