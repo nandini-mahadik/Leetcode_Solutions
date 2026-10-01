@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 ## Binary Search
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
