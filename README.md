@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [2409-count-days-spent-together](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
