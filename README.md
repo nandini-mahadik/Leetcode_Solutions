@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
