@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/nandini-mahadik/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
